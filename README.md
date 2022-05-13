@@ -1,6 +1,6 @@
 # campus-workshops-knowledge-base
 
-Knowledge Base for Campus Workshops
+Just for lols
 
 # What we'll be doing today?
 
