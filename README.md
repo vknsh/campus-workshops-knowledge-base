@@ -1,6 +1,7 @@
 # campus-workshops-knowledge-base
 
-Just for lols
+Git bash over here
+
 
 # What we'll be doing today?
 
